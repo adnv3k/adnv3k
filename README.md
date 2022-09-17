@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate backend developer from the US.</h3>
 
-- 🔭 I’m currently working on [nutrition tracker](https://github.com/adnv3k/Food-Tracker)
+- 🔭 I’m currently working on a [nutrition tracker](https://github.com/adnv3k/Food-Tracker)
 
 - 🌱 I’m currently learning **Django, CS50, C**
 
