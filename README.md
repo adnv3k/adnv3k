@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [nutrition tracker](https://github.com/adnv3k/Food-Tracker)
 
-- 🌱 I’m currently learning **Django, CS50, C**
+- 🌱 I’m currently learning **Django, C**
 
 - 💬 Ask me about **python**
 
